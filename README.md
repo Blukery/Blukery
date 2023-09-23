@@ -10,7 +10,7 @@
 </br>
 <h2>Hobbies:</h2>
 • Solo Projects for learning/training </br>
-• Reverse Engeneering </br>
+• Reverse Engineering </br>
 • AI Research </br>
 </br>
 
