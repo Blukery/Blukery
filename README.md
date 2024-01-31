@@ -1,18 +1,21 @@
 <div>   
 <h2>Most used Languages:</h2>
-• Lua </br>
-• Java </br>
+• Lua (First) </br>
+• Java (#2 Most used) </br>
 • Javascript (Node.js) </br>
-• C/C++ </br>
-• Python (Related to AI and Deep Learning on Images) </br>
+• C/C++ (Learning) </br>
+• Python (#1 Most used) (Related to AI and Deep Learning on Images) </br>
 • SQL </br>
 • PHP </br>
+• ASM (Learning, Intel 86x/64x) </br>
 </br>
 <h2>Hobbies:</h2>
 • Solo Projects for learning/training </br>
 • Reverse Engineering </br>
 • AI Research </br>
 </br>
+
+<h3>All my repositores are private maybe i'll add a few public stuff. not in my plans rn.</h3>
 
 <h3>Stats that i don't care:</h3>
 </br>
